@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\Users\Public\Documents\Altium\Projects\IOT_Fire_Alarm_Junior\IOT_Fire_Alarm.PcbDoc
+Date         : 7/15/2022
+Time         : 6:38:08 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 4250milsx3345mils
+    Components on board, 48
+count : 2
